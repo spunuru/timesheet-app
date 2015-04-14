@@ -1,6 +1,4 @@
-# timesheet-app
-
-# Summary #
+# timesheet-app summary
 
 * timsheet-app is a web application to manage employee timesheets.
 * Context 'timesheet-app' is hardcoded in a few places. URL is http://localhost:8080/timesheet-app/welcome
